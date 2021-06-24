@@ -1,0 +1,58 @@
+/**
+ * @name [SFW] Akame Ga Kill Esdeath Bikini
+ * @author SAD SHARK#5716
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232450
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/base.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/Lodwod0.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: transparent;
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://i.imgur.com/voU1Ode.jpg');
+  --home-button-size: 150%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.4;
+  --left-brightness: 0.4;
+  --middle-brightness: 0.4;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.4;
+  --gradient-primary: 112,242,251;
+  --gradient-secondary: 191,191,191;
+  --link-colour: #00E8FF;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Whitney;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --show-gift-gif-buttons: block;
+  --update-notice-1: none;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2.5px;
+  --rs-medium-width: 2.5px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #00F0FF;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+}
