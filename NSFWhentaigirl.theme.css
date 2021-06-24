@@ -1,0 +1,19 @@
+//META{"name":"[NSFW] Hentai Girl","description":"Theme generated using https://vsthemes.org/generator","author":"VSThemes.org","version":"1.0"}*//
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.6;
+    --guildchanneltransparency: 0.25;
+    --memberlistransparency: 0.25;
+    --accentcolor: 238,112,112;
+    --background: url("https://vsthemes.org/uploads/posts/2021-06/1623938380_izobrazhenie_viber_2021-06-17_16-58-13.jpg");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
